@@ -1,8 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react'
+import  Taskform from './Components/Taskform'
 export default function App() {
   return (
-    <div>App</div>
+    <div><Taskform /></div>
   )
 }    
